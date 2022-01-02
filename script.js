@@ -1,7 +1,8 @@
-var x;
+var x = 4;
 
-for(x = 2; x < 6; x++){
-     alert("Ainda é menor que 6: ->"  + " " + x );
+while(x < 6){
+   alert("Ainda é menor que 6: ->"  + " " + x );
+   x++;
 }
 
 

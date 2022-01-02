@@ -1,2 +1,3 @@
- alert("Hello, world!");
+var x = "hello, world";
+alert(x);
 

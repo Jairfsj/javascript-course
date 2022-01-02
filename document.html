@@ -4,12 +4,12 @@
    
    <meta charset="UTF-8">
    <title># Javascript course # </title>
-   <script>
-      function mudaCor(){
-         if(confirm("Você deseja ir para esse site ?")){
-         location.href="https://github.com/Jairfsj"
-         }
-      }
+   <script language="JavaScript"  TYPE="text/javascript">
+      var nome;
+       do {
+           nome = prompt ("Qual é o seu nome?");
+       }while (nome == null || nome == "");
+      alert ("Seu nome é"+ " " +nome);
    </script>
 
 </head>
@@ -18,7 +18,7 @@
    <h1 id="tal" onclick="mudaCor();">Clique aqui para haver mudandaça</h1>
 
    <hr>
-   <input  value="Abrir Janela" onclick="window.open('ENDEREÇO_WEB_OU_LOCAL.html','Exemplo','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbar=no, copyhistory=yes, width=300, height=150')"
+   <input  value="Abrir Janela" onclick="mudaCor();" type="button"
     
 </body>
 </html>

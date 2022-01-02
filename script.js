@@ -1,3 +1,7 @@
-var x = ((2 + 3) * 5) * 2;
-alert(x);
+funcition myFunction(){
+   var x = 3;
+   var y = 6;
+   alert(x + y);
+}
 
+myFunction();

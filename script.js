@@ -1,3 +1,3 @@
-var x = ["Jair", "francisco"];
+var x = ((2 + 3) * 5) * 2;
 alert(x);
 

@@ -1,4 +1,3 @@
-var x = "hello";
-var y = "world!"
-alert(x + ", " + y);
+var x = ["Jair", "francisco"];
+alert(x);
 

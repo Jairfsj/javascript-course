@@ -1,4 +1,4 @@
-var x = 6;
+var x = 7;
 
 if(x >= 8){
     alert("Sim, x é maior ou igual a 8");

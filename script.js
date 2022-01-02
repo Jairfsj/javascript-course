@@ -1,7 +1,5 @@
-function myFunction(){
-   var x = 3;
-   var y = 6;
+function myFunction(x,y) {
    alert(x + y);
 }
 
-myFunction();
+myFunction(9,0);

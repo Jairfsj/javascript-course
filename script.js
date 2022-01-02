@@ -1,9 +1,11 @@
-var x = 7;
+var x;
 
-if(x >= 8){
-    alert("Sim, x é maior ou igual a 8");
-}else if(x >= 7){
-     alert("Sim é maior ou igual a 7");
-}else{
-    alert("Não, x é menor que  8");
+for(x = 2; x < 6; x++){
+    alert("Ainda é menor que 6: ->" + x);
 }
+
+
+
+
+
+

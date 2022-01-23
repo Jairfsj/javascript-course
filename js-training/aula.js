@@ -1,0 +1,13 @@
+//let idade = 38;
+//console.log(idade);
+//let altura = 1.84;
+//console.log(altura);
+//camelCase;
+//noNumberFisrtVar;
+//caseSensitive;
+//let  peso = 98;
+//console.log(peso);
+//let numeroDaCasa = 431;
+//console.log(numeroDaCasa);
+//let anoNascimento = 1981;
+//console.log(anoNascimento);
